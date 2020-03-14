@@ -1,2 +1,5 @@
 This is a change log
 CHANGELOG!!!!!!!!
+
+2020.3.14  Waste Money Simulator 2.1 Released
++Help Function
